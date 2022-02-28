@@ -15,16 +15,16 @@
 
 - 🌱 I’m currently learning **Applied Computer Science**
 
-- 📝 I regularly write articles on [https://medium.com/@wscottreynders/about](https://medium.com/@wscottreynders/about)
+- 📝 I regularly write articles on <a href="https://medium.com/@wscottreynders">Medium</a>
 
 <h1>📫How to reach me</h1> 
 
 - wscottreynders@gmail.com 
-- https://www.linkedin.com/in/scott-reynders-57971921b/
+- <a href="https://www.linkedin.com/in/scott-reynders-57971921b/">LinkedIn</a>
 
 <h1>📄Resume</h1> 
 
-- [file:///C:/Users/wscot/OneDrive/Desktop/Scott.Reynders-Resume.pdf](file:///C:/Users/wscot/OneDrive/Desktop/Scott.Reynders-Resume.pdf)
+- https://github.com/wscottreynders/resume/raw/main/Scott.Reynders-Resume.pdf
 
 
 <h1 align="left">Languages and Tools:</h1>
