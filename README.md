@@ -24,7 +24,7 @@
 
 <h1>📄Resume</h1> 
 
-- https://github.com/wscottreynders/resume/raw/main/Scott.Reynders-Resume.pdf
+- <a href="https://github.com/wscottreynders/resume/raw/main/Scott.Reynders-Resume.pdf">Resume</a>
 
 
 <h1 align="left">Languages and Tools:</h1>
