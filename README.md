@@ -17,6 +17,8 @@
 
 - 📝 I regularly write articles on <a href="https://medium.com/@wscottreynders">Medium</a>
 
+- ⚡ Fun fact: I am an avid fan and reader of science fiction and fantasy.
+
 <h1>📫How to reach me</h1> 
 
 - wscottreynders@gmail.com 
