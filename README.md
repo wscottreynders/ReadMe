@@ -4,6 +4,8 @@
 
 <h1>About Me</h1>
 
+<p align="left">I have spent the last 7 months honing my data science skills. I have become proficient in Pandas, Matplotlib, Statsmodels, Seaborn, and sci-kit-learn. I also have a strong background in data analytics. I've spent the last two years teaching and developing adept communication skills. I have always been inquisitive and had a natural inclination towards the sciences. I pursued a degree in History and a minor in chemistry. My intentions were med school, but as I approached graduation, I decided to pivot. I enjoy problem-solving, and data intrigued me. I realized that data was the new frontier. It was an unexplored landscape with vast potential. With my data analytics and communication skills, I felt that I could make a real impact in the world.</p>
+
 💻 I’m currently working ona portfolio website to create a further understanding of my Data, Science, Data Engineering, and Data Analyst course in BloomTech
 
 🌱 I’m currently learning **Applied Computer Science**
@@ -14,9 +16,6 @@
 - <a href="https://www.linkedin.com/in/scott-reynders-57971921b/">LinkedIn</a>
 
 <p align="left">👋 My name is Scott! I am a passionate and enthusiastic Data Science Student at BloomTech</p>
-
-
-<p align="left">I have spent the last 7 months honing my data science skills. I have become proficient in Pandas, Matplotlib, Statsmodels, Seaborn, and sci-kit-learn. I also have a strong background in data analytics. I've spent the last two years teaching and developing adept communication skills. I have always been inquisitive and had a natural inclination towards the sciences. I pursued a degree in History and a minor in chemistry. My intentions were med school, but as I approached graduation, I decided to pivot. I enjoy problem-solving, and data intrigued me. I realized that data was the new frontier. It was an unexplored landscape with vast potential. With my data analytics and communication skills, I felt that I could make a real impact in the world.</p>
 
 <h1>📄Resume</h1> 
 
