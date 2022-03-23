@@ -13,8 +13,6 @@
 - wscottreynders@gmail.com 
 - <a href="https://www.linkedin.com/in/scott-reynders-57971921b/">LinkedIn</a>
 
-<h1>📫How to reach me</h1>
-
 <p align="left">👋 My name is Scott! I am a passionate and enthusiastic Data Science Student at BloomTech</p>
 
 
