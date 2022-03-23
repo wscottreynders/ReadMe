@@ -1,5 +1,5 @@
 <h1 align="left"> Scott Reynders</h1>
-<h3 align="left">Data Engineer| Data Analyst| Data Scientist</h3>
+<h3 align="left">Data Engineer | Data Analyst | Data Scientist</h3>
 <p align="left"> <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/274925600_2257571714384065_2730869903595781554_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=5WVl9HOli2YAX8kdb69&_nc_ht=scontent-lax3-1.xx&oh=00_AT9uVD959t3ncXt0pczO_vXdYN3hyHfOIeOrgTndwwlIsQ&oe=62218B2F" width="300" height"400" /> </p>
 
 <h1>About Me</h1>
