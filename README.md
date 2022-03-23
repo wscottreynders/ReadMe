@@ -4,11 +4,11 @@
 
 <h1>About Me</h1>
 
-- 💻 I’m currently working ona portfolio website to create a further understanding of my Data, Science, Data Engineering, and Data Analyst course in BloomTech
+💻 I’m currently working ona portfolio website to create a further understanding of my Data, Science, Data Engineering, and Data Analyst course in BloomTech
 
-- 🌱 I’m currently learning **Applied Computer Science**
+🌱 I’m currently learning **Applied Computer Science**
 
-- 📝 I regularly write articles on <a href="https://medium.com/@wscottreynders">Medium</a>
+📝 I regularly write articles on <a href="https://medium.com/@wscottreynders">Medium</a>
 
 - wscottreynders@gmail.com 
 - <a href="https://www.linkedin.com/in/scott-reynders-57971921b/">LinkedIn</a>
