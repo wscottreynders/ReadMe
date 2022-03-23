@@ -1,14 +1,6 @@
 <h1 align="left"> Scott Reynders</h1>
 <p align="left"> <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/274925600_2257571714384065_2730869903595781554_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=5WVl9HOli2YAX8kdb69&_nc_ht=scontent-lax3-1.xx&oh=00_AT9uVD959t3ncXt0pczO_vXdYN3hyHfOIeOrgTndwwlIsQ&oe=62218B2F" width="300" height"400" /> </p>
 
-<h3 align="left">Data Engineer| Data Analyst| Data Scientist</h3>
-
-<p align="left">👋 My name is Scott! I am a passionate and enthusiastic Data Science Student at BloomTech</p>
-
-
-<p align="left">I have spent the last 7 months honing my data science skills. I have become proficient in Pandas, Matplotlib, Statsmodels, Seaborn, and sci-kit-learn. I also have a strong background in data analytics. I've spent the last two years teaching and developing adept communication skills. I have always been inquisitive and had a natural inclination towards the sciences. I pursued a degree in History and a minor in chemistry. My intentions were med school, but as I approached graduation, I decided to pivot. I enjoy problem-solving, and data intrigued me. I realized that data was the new frontier. It was an unexplored landscape with vast potential. With my data analytics and communication skills, I felt that I could make a real impact in the world.</p>
-
-
 <h1>About Me</h1>
 
 - 💻 I’m currently working ona portfolio website to create a further understanding of my Data, Science, Data Engineering, and Data Analyst course in BloomTech
@@ -18,6 +10,15 @@
 - 📝 I regularly write articles on <a href="https://medium.com/@wscottreynders">Medium</a>
 
 - ⚡ Fun fact: I am an avid fan and reader of science fiction and fantasy.
+
+<h1>📫How to reach me</h1> 
+
+<h3 align="left">Data Engineer| Data Analyst| Data Scientist</h3>
+
+<p align="left">👋 My name is Scott! I am a passionate and enthusiastic Data Science Student at BloomTech</p>
+
+
+<p align="left">I have spent the last 7 months honing my data science skills. I have become proficient in Pandas, Matplotlib, Statsmodels, Seaborn, and sci-kit-learn. I also have a strong background in data analytics. I've spent the last two years teaching and developing adept communication skills. I have always been inquisitive and had a natural inclination towards the sciences. I pursued a degree in History and a minor in chemistry. My intentions were med school, but as I approached graduation, I decided to pivot. I enjoy problem-solving, and data intrigued me. I realized that data was the new frontier. It was an unexplored landscape with vast potential. With my data analytics and communication skills, I felt that I could make a real impact in the world.</p>
 
 <h1>📫How to reach me</h1> 
 
