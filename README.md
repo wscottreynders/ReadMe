@@ -16,7 +16,7 @@
 - wscottreynders@gmail.com 
 - <a href="https://www.linkedin.com/in/scott-reynders-57971921b/">LinkedIn</a>
 
-<p align="left"; style="font-size: 20px">Languages and Tools:</p>
+<p align="left"; style="font-size: 60px">Languages and Tools:</p>
 
 
 <h1 align="left"; style="font-size: 20px">Languages and Tools:</h1>
