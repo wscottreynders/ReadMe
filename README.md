@@ -25,4 +25,5 @@
 
 
 <p align="left"; style="font-size: 60px">Resume:</p>
+  
 - <a href="https://github.com/wscottreynders/resume/raw/main/Scott.Reynders-Resume.pdf">Resume</a>
