@@ -13,7 +13,7 @@
 
 📝 I regularly write articles on <a href="https://medium.com/@wscottreynders">Medium</a>
 
-📫 <p align="left"><strong>How to Reach Me</strong></p>
+<p align="left"><strong>📫 How to Reach Me</strong></p>
 
 - wscottreynders@gmail.com 
 - <a href="https://www.linkedin.com/in/scott-reynders-57971921b/">LinkedIn</a>
